@@ -26,7 +26,7 @@
 
 - 👨‍💻 My portfolio you can see on <a href="https://fungy.tk">fungy.tk</a>
 </details>
-<center><a href="https://pawns.app?r=duckduckgo" target="_blank">
+<center><a href="bit.ly/githubfungy" target="_blank">
 <img src="https://cdn.pawns.app/images/b/728.jpg" alt="Pawns.app">
 </a></center>
 <details>
