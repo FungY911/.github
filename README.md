@@ -18,7 +18,7 @@
   </div>    
   <br/>
   <h2 align="center"> latest contribution </h2>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FungY911&custom_title=Graph&hide_border=true)](https://github.com/FungY911)
+<img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph?username=FungY911&custom_title=Graph&hide_border=true" />
 <details>
 <summary>🧮 About Me</summary>
  
