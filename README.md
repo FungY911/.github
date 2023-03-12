@@ -18,7 +18,7 @@
   </div>    
   <br/>
 <p align="center"> 
-  Visitor count :) (since 12. March. 2023)<br>
+  <h2 align="center"> 📈 Visitor count :) (since 12. March. 2023)</h2><br>
   <img src="https://profile-counter.glitch.me/fungy911/count.svg"/>
 </p>
 <details>
