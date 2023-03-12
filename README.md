@@ -17,8 +17,10 @@
      <br>
   </div>    
   <br/>
-  <h2 align="center"> latest contribution </h2>
-<img width="49.5%" src="https://github-readme-activity-graph.cyclic.app/graph?username=FungY911&custom_title=Graph&hide_border=true" />
+<p align="center"> 
+  Visitor count :) (since 12. March. 2023)<br>
+  <img src="https://profile-counter.glitch.me/kyngs/count.svg"/>
+</p>
 <details>
 <summary>🧮 About Me</summary>
  
