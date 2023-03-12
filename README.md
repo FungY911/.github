@@ -19,14 +19,14 @@
   <br/>
 <p align="center"> 
   Visitor count :) (since 12. March. 2023)<br>
-  <img src="https://profile-counter.glitch.me/kyngs/count.svg"/>
+  <img src="https://profile-counter.glitch.me/fungy911/count.svg"/>
 </p>
 <details>
 <summary>🧮 About Me</summary>
  
-- 🔭 I’m currently working on <a href="https://boathost.xyz">CodeIT</a>
+- 🔭 I’m currently working on <a href="https://codemein.tech">CodeIT (Code Me In Tech)</a>
 
-- 👨‍💻 My portfolio you can see on <a href="https://fungy.tk">fungy.tk</a>
+- 👨‍💻 My portfolio you can see on <a href="https://fungy.tk">fungy.tk (Currently down)</a>
 </details>
 <details>
 <summary>👅 Languages</summary>
